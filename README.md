@@ -1,2 +1,4 @@
 # My-Demo-Project
-This is my first repository
+This is my first git  repository
+<br>
+Author - SHARUKKHAN PATAN
